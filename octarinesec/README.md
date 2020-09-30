@@ -24,9 +24,9 @@ Ubuntu System.
 
 ## Screenshots 
 
-![output-1](https://github.com/clouddrove/research-and-development/blob/slave/k8s-security-tools/octarinesec/octarinesec-dashboard.png)
+![output-1](https://github.com/aashishgoyal246/kubernetes-security-tools/blob/master/octarinesec/octarinesec-dashboard.png)
 
-![output-2](https://github.com/clouddrove/research-and-development/blob/slave/k8s-security-tools/octarinesec/octarinesec-resource.png)
+![output-2](https://github.com/aashishgoyal246/kubernetes-security-tools/blob/master/octarinesec/octarinesec-resource.png)
 
 ## Getting Started
 

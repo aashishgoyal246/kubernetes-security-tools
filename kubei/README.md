@@ -26,7 +26,7 @@ Ubuntu System.
 
 ## Screenshots 
 
-![output](https://github.com/clouddrove/research-and-development/blob/slave/k8s-security-tools/kubei/kubei-k8s-security.png)
+![output](https://github.com/aashishgoyal246/kubernetes-security-tools/blob/master/kubei/kubei-k8s-security.png)
 
 ## Getting Started
 

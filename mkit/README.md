@@ -24,7 +24,7 @@ Ubuntu System.
 
 ## Screenshots 
 
-![output](https://github.com/clouddrove/research-and-development/blob/slave/k8s-security-tools/mkit/mkit-k8s-security.png)
+![output](https://github.com/aashishgoyal246/kubernetes-security-tools/blob/master/mkit/mkit-k8s-security.png)
 
 ## Getting Started
 
