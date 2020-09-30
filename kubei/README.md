@@ -34,7 +34,7 @@ Ubuntu System.
 
 Step 1. To setup a cluster, here use we will setup kubernetes cluster using this script which is in same repository -
 
-Script - [master.sh](https://github.com/clouddrove/research-and-development/blob/slave/k8s-security-tools/kubei/master.sh)
+Script - [master.sh](https://github.com/aashishgoyal246/kubernetes-security-tools/blob/master/kubei/master.sh)
 
 Do the following steps -
 
